@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-molecular-distance-geometry-rmsd-superposition-skill"
+version = "1.0.0"
+description = "Kabsch algorithm for optimal 3D molecular coordinates alignment, rigid translation, and RMSD distance calculation"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []

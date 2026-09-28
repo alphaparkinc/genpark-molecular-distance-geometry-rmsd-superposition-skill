@@ -1,0 +1,5 @@
+name: genpark-molecular-distance-geometry-rmsd-superposition-skill
+description: Kabsch algorithm for optimal 3D molecular coordinates alignment, rigid translation, and RMSD distance calculation
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py

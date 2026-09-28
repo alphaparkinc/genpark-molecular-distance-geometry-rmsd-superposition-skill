@@ -1,0 +1,19 @@
+{
+  "name": "genpark-molecular-distance-geometry-rmsd-superposition-skill",
+  "version": "1.0.0",
+  "description": "Kabsch algorithm for optimal 3D molecular coordinates alignment, rigid translation, and RMSD distance calculation",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "kabsch-algorithm",
+    "rmsd",
+    "molecular-geometry",
+    "structural-alignment",
+    "protein-structure",
+    "3d-superposition",
+    "python-standard-library",
+    "agent-skills",
+    "coordinate-geometry",
+    "computational-chemistry"
+  ]
+}
